@@ -1,6 +1,6 @@
 <!--//// written by Nikhil 'itsN1X' Pandita for Exit Co.>//zzpraf1n142af.onion
 Access-Control-Allow-Origin: *<!-->
-<html><meta http-equiv="refresh" content="12" >
+<html><meta http-equiv="refresh" content="30" >
 <hr><hr>Blockchain Public Keyring Identifiers (PKIs), i t s  N 1 X<hr><hr>
 <br><div id="root"></div>
 <script src="0xEFF.js"></script>
